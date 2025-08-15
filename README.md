@@ -4,7 +4,6 @@
 Frontend Developer | Passionate about clean UI & smooth UX
 
 ## 🔗 Portfolio Links
-- [Acma Soft](https://acmasoft.com/)
 - [Chirayu Super Speciality Hospital](https://chirayusuperspecialityhospital.com/)
 - [Consult Pro](https://consultpro.in.net/)
 - [AcmaFone](https://acmafone.com/)
